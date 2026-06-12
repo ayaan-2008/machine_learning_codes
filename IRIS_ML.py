@@ -20,7 +20,7 @@ model = DecisionTreeClassifier()        #this uses the decision tree method to c
 model.fit(X_train, y_train)             # here is where all the training part of a machine comes to play
 predictions = model.predict(X_test)     # this predicts the answers for the 20% of data we split in the beginning 
 
-print(predictions)
+print("predictions done by the model:",predictions)
 
 print("ACCURACY:",                      #]
     accuracy_score(y_test, predictions) #]----- This is where the predicted answers's result is evaluated 
