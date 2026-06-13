@@ -37,5 +37,5 @@ The model is trained using supervised learning techniques and demonstrates the c
 ```bash
 IRIS_ML/
 │
-├── IRIS_ML.py
+├── supervised_learning.py
 ├── README.md
