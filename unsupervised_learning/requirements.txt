@@ -1,0 +1,6 @@
+streamlit>=1.0.0
+streamlit-drawable-canvas>=0.8.0
+numpy>=1.21.0
+opencv-python>=4.5.0
+pillow>=8.0.0
+scikit-learn>=1.0.0
