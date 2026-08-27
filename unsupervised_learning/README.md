@@ -35,17 +35,13 @@ Unlike supervised learning models, this system does **not** receive labels such 
 
 ## Demo
 
-<!-- Add your screenshot/demo here -->
-<!-- ![Shape Analyzer Demo](path/to/demo.png) -->
+<img width="1234" height="845" alt="image" src="https://github.com/user-attachments/assets/2bac3440-3680-4c3c-b21b-1a958e09ed9b" />
 
-> Screenshot coming soon!
+<img width="1256" height="850" alt="image" src="https://github.com/user-attachments/assets/b359f2a5-847f-4e45-b209-a36758860729" />
 
-<!-- Add demo video here -->
-<!-- https://www.youtube.com/watch?v=YOUR_VIDEO_ID -->
+<img width="1239" height="848" alt="image" src="https://github.com/user-attachments/assets/269108d1-b048-42ad-aee5-84614af3a233" />
 
-> Demo video coming soon!
 
----
 
 ## How It Works
 
