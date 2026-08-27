@@ -39,10 +39,7 @@ The model demonstrates the complete ML workflow from data loading to prediction.
 
 ## Demo
 
-<!-- Add your screenshot/demo here -->
-<!-- ![IRIS Demo](path/to/demo.png) -->
-
-> Screenshot coming soon!
+<img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/5c198e91-cd72-4e5d-9134-ca784909fa5e" />
 
 ---
 
