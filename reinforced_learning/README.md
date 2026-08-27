@@ -56,12 +56,8 @@ The AI stores every move made by the player and uses frequency analysis to predi
 
 ## Demo
 
-<!-- Add your screenshot/demo here -->
-<!-- ![RPS AI Demo](path/to/demo.png) -->
+<img width="1914" height="1031" alt="image" src="https://github.com/user-attachments/assets/48b443c8-0676-47fd-953c-b20481c865a0" />
 
-> Screenshot coming soon!
-
----
 
 ## Features
 
